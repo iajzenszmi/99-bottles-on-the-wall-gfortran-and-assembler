@@ -1,0 +1,919 @@
+ian@ian-Latitude-3190-2-in-1:~$ gfortran bottles.f90
+ian@ian-Latitude-3190-2-in-1:~$ ./a.out
+99 bottles of beer on the wall
+99 bottles of beer
+ Take one down, pass it around
+98 bottles of beer on the wall
+98 bottles of beer
+ Take one down, pass it around
+97 bottles of beer on the wall
+97 bottles of beer
+ Take one down, pass it around
+96 bottles of beer on the wall
+96 bottles of beer
+ Take one down, pass it around
+95 bottles of beer on the wall
+95 bottles of beer
+ Take one down, pass it around
+94 bottles of beer on the wall
+94 bottles of beer
+ Take one down, pass it around
+93 bottles of beer on the wall
+93 bottles of beer
+ Take one down, pass it around
+92 bottles of beer on the wall
+92 bottles of beer
+ Take one down, pass it around
+91 bottles of beer on the wall
+91 bottles of beer
+ Take one down, pass it around
+90 bottles of beer on the wall
+90 bottles of beer
+ Take one down, pass it around
+89 bottles of beer on the wall
+89 bottles of beer
+ Take one down, pass it around
+88 bottles of beer on the wall
+88 bottles of beer
+ Take one down, pass it around
+87 bottles of beer on the wall
+87 bottles of beer
+ Take one down, pass it around
+86 bottles of beer on the wall
+86 bottles of beer
+ Take one down, pass it around
+85 bottles of beer on the wall
+85 bottles of beer
+ Take one down, pass it around
+84 bottles of beer on the wall
+84 bottles of beer
+ Take one down, pass it around
+83 bottles of beer on the wall
+83 bottles of beer
+ Take one down, pass it around
+82 bottles of beer on the wall
+82 bottles of beer
+ Take one down, pass it around
+81 bottles of beer on the wall
+81 bottles of beer
+ Take one down, pass it around
+80 bottles of beer on the wall
+80 bottles of beer
+ Take one down, pass it around
+79 bottles of beer on the wall
+79 bottles of beer
+ Take one down, pass it around
+78 bottles of beer on the wall
+78 bottles of beer
+ Take one down, pass it around
+77 bottles of beer on the wall
+77 bottles of beer
+ Take one down, pass it around
+76 bottles of beer on the wall
+76 bottles of beer
+ Take one down, pass it around
+75 bottles of beer on the wall
+75 bottles of beer
+ Take one down, pass it around
+74 bottles of beer on the wall
+74 bottles of beer
+ Take one down, pass it around
+73 bottles of beer on the wall
+73 bottles of beer
+ Take one down, pass it around
+72 bottles of beer on the wall
+72 bottles of beer
+ Take one down, pass it around
+71 bottles of beer on the wall
+71 bottles of beer
+ Take one down, pass it around
+70 bottles of beer on the wall
+70 bottles of beer
+ Take one down, pass it around
+69 bottles of beer on the wall
+69 bottles of beer
+ Take one down, pass it around
+68 bottles of beer on the wall
+68 bottles of beer
+ Take one down, pass it around
+67 bottles of beer on the wall
+67 bottles of beer
+ Take one down, pass it around
+66 bottles of beer on the wall
+66 bottles of beer
+ Take one down, pass it around
+65 bottles of beer on the wall
+65 bottles of beer
+ Take one down, pass it around
+64 bottles of beer on the wall
+64 bottles of beer
+ Take one down, pass it around
+63 bottles of beer on the wall
+63 bottles of beer
+ Take one down, pass it around
+62 bottles of beer on the wall
+62 bottles of beer
+ Take one down, pass it around
+61 bottles of beer on the wall
+61 bottles of beer
+ Take one down, pass it around
+60 bottles of beer on the wall
+60 bottles of beer
+ Take one down, pass it around
+59 bottles of beer on the wall
+59 bottles of beer
+ Take one down, pass it around
+58 bottles of beer on the wall
+58 bottles of beer
+ Take one down, pass it around
+57 bottles of beer on the wall
+57 bottles of beer
+ Take one down, pass it around
+56 bottles of beer on the wall
+56 bottles of beer
+ Take one down, pass it around
+55 bottles of beer on the wall
+55 bottles of beer
+ Take one down, pass it around
+54 bottles of beer on the wall
+54 bottles of beer
+ Take one down, pass it around
+53 bottles of beer on the wall
+53 bottles of beer
+ Take one down, pass it around
+52 bottles of beer on the wall
+52 bottles of beer
+ Take one down, pass it around
+51 bottles of beer on the wall
+51 bottles of beer
+ Take one down, pass it around
+50 bottles of beer on the wall
+50 bottles of beer
+ Take one down, pass it around
+49 bottles of beer on the wall
+49 bottles of beer
+ Take one down, pass it around
+48 bottles of beer on the wall
+48 bottles of beer
+ Take one down, pass it around
+47 bottles of beer on the wall
+47 bottles of beer
+ Take one down, pass it around
+46 bottles of beer on the wall
+46 bottles of beer
+ Take one down, pass it around
+45 bottles of beer on the wall
+45 bottles of beer
+ Take one down, pass it around
+44 bottles of beer on the wall
+44 bottles of beer
+ Take one down, pass it around
+43 bottles of beer on the wall
+43 bottles of beer
+ Take one down, pass it around
+42 bottles of beer on the wall
+42 bottles of beer
+ Take one down, pass it around
+41 bottles of beer on the wall
+41 bottles of beer
+ Take one down, pass it around
+40 bottles of beer on the wall
+40 bottles of beer
+ Take one down, pass it around
+39 bottles of beer on the wall
+39 bottles of beer
+ Take one down, pass it around
+38 bottles of beer on the wall
+38 bottles of beer
+ Take one down, pass it around
+37 bottles of beer on the wall
+37 bottles of beer
+ Take one down, pass it around
+36 bottles of beer on the wall
+36 bottles of beer
+ Take one down, pass it around
+35 bottles of beer on the wall
+35 bottles of beer
+ Take one down, pass it around
+34 bottles of beer on the wall
+34 bottles of beer
+ Take one down, pass it around
+33 bottles of beer on the wall
+33 bottles of beer
+ Take one down, pass it around
+32 bottles of beer on the wall
+32 bottles of beer
+ Take one down, pass it around
+31 bottles of beer on the wall
+31 bottles of beer
+ Take one down, pass it around
+30 bottles of beer on the wall
+30 bottles of beer
+ Take one down, pass it around
+29 bottles of beer on the wall
+29 bottles of beer
+ Take one down, pass it around
+28 bottles of beer on the wall
+28 bottles of beer
+ Take one down, pass it around
+27 bottles of beer on the wall
+27 bottles of beer
+ Take one down, pass it around
+26 bottles of beer on the wall
+26 bottles of beer
+ Take one down, pass it around
+25 bottles of beer on the wall
+25 bottles of beer
+ Take one down, pass it around
+24 bottles of beer on the wall
+24 bottles of beer
+ Take one down, pass it around
+23 bottles of beer on the wall
+23 bottles of beer
+ Take one down, pass it around
+22 bottles of beer on the wall
+22 bottles of beer
+ Take one down, pass it around
+21 bottles of beer on the wall
+21 bottles of beer
+ Take one down, pass it around
+20 bottles of beer on the wall
+20 bottles of beer
+ Take one down, pass it around
+19 bottles of beer on the wall
+19 bottles of beer
+ Take one down, pass it around
+18 bottles of beer on the wall
+18 bottles of beer
+ Take one down, pass it around
+17 bottles of beer on the wall
+17 bottles of beer
+ Take one down, pass it around
+16 bottles of beer on the wall
+16 bottles of beer
+ Take one down, pass it around
+15 bottles of beer on the wall
+15 bottles of beer
+ Take one down, pass it around
+14 bottles of beer on the wall
+14 bottles of beer
+ Take one down, pass it around
+13 bottles of beer on the wall
+13 bottles of beer
+ Take one down, pass it around
+12 bottles of beer on the wall
+12 bottles of beer
+ Take one down, pass it around
+11 bottles of beer on the wall
+11 bottles of beer
+ Take one down, pass it around
+10 bottles of beer on the wall
+10 bottles of beer
+ Take one down, pass it around
+9 bottles of beer on the wall
+9 bottles of beer
+ Take one down, pass it around
+8 bottles of beer on the wall
+8 bottles of beer
+ Take one down, pass it around
+7 bottles of beer on the wall
+7 bottles of beer
+ Take one down, pass it around
+6 bottles of beer on the wall
+6 bottles of beer
+ Take one down, pass it around
+5 bottles of beer on the wall
+5 bottles of beer
+ Take one down, pass it around
+4 bottles of beer on the wall
+4 bottles of beer
+ Take one down, pass it around
+3 bottles of beer on the wall
+3 bottles of beer
+ Take one down, pass it around
+2 bottles of beer on the wall
+2 bottles of beer
+ Take one down, pass it around
+1 bottle of beer on the wall
+1 bottle of beer
+ Take one down, pass it around
+0 bottles of beer on the wall
+ian@ian-Latitude-3190-2-in-1:~$ cat bottles.f90
+program bottlestest
+
+  implicit none
+
+  integer :: i
+  
+  character(len=*), parameter   :: bwall = " on the wall", &
+                                   bottles = "bottles of beer", &
+                                   bottle  = "bottle of beer", &
+                                   take = "Take one down, pass it around", &
+                                   form = "(I0, ' ', A)"
+
+  do i = 99,0,-1
+     if ( i /= 1 ) then
+        write (*,form)  i, bottles // bwall
+        if ( i > 0 ) write (*,form)  i, bottles
+     else
+        write (*,form)  i, bottle // bwall
+        write (*,form)  i, bottle
+     end if
+     if ( i > 0 ) write (*,*) take
+  end do
+
+end program bottlestest
+ian@ian-Latitude-3190-2-in-1:~$ sloccount bottles.f90
+Have a non-directory at the top, so creating directory top_dir
+Adding /home/ian/bottles.f90 to top_dir
+Categorizing files.
+Finding a working MD5 command....
+Found a working MD5 command.
+Computing results.
+
+
+SLOC	Directory	SLOC-by-Language (Sorted)
+19      top_dir         f90=19
+
+
+Totals grouped by language (dominant language first):
+f90:             19 (100.00%)
+
+
+
+
+Total Physical Source Lines of Code (SLOC)                = 19
+Development Effort Estimate, Person-Years (Person-Months) = 0.00 (0.04)
+ (Basic COCOMO model, Person-Months = 2.4 * (KSLOC**1.05))
+Schedule Estimate, Years (Months)                         = 0.06 (0.72)
+ (Basic COCOMO model, Months = 2.5 * (person-months**0.38))
+Estimated Average Number of Developers (Effort/Schedule)  = 0.05
+Total Estimated Cost to Develop                           = $ 421
+ (average salary = $56,286/year, overhead = 2.40).
+SLOCCount, Copyright (C) 2001-2004 David A. Wheeler
+SLOCCount is Open Source Software/Free Software, licensed under the GNU GPL.
+SLOCCount comes with ABSOLUTELY NO WARRANTY, and you are welcome to
+redistribute it under certain conditions as specified by the GNU GPL license;
+see the documentation for details.
+Please credit this data as "generated using David A. Wheeler's 'SLOCCount'."
+ian@ian-Latitude-3190-2-in-1:~$ gfortran bottles.f90 -S
+ian@ian-Latitude-3190-2-in-1:~$ gfortran bottles.s -o bottless
+ian@ian-Latitude-3190-2-in-1:~$ ./bottless
+99 bottles of beer on the wall
+99 bottles of beer
+ Take one down, pass it around
+98 bottles of beer on the wall
+98 bottles of beer
+ Take one down, pass it around
+97 bottles of beer on the wall
+97 bottles of beer
+ Take one down, pass it around
+96 bottles of beer on the wall
+96 bottles of beer
+ Take one down, pass it around
+95 bottles of beer on the wall
+95 bottles of beer
+ Take one down, pass it around
+94 bottles of beer on the wall
+94 bottles of beer
+ Take one down, pass it around
+93 bottles of beer on the wall
+93 bottles of beer
+ Take one down, pass it around
+92 bottles of beer on the wall
+92 bottles of beer
+ Take one down, pass it around
+91 bottles of beer on the wall
+91 bottles of beer
+ Take one down, pass it around
+90 bottles of beer on the wall
+90 bottles of beer
+ Take one down, pass it around
+89 bottles of beer on the wall
+89 bottles of beer
+ Take one down, pass it around
+88 bottles of beer on the wall
+88 bottles of beer
+ Take one down, pass it around
+87 bottles of beer on the wall
+87 bottles of beer
+ Take one down, pass it around
+86 bottles of beer on the wall
+86 bottles of beer
+ Take one down, pass it around
+85 bottles of beer on the wall
+85 bottles of beer
+ Take one down, pass it around
+84 bottles of beer on the wall
+84 bottles of beer
+ Take one down, pass it around
+83 bottles of beer on the wall
+83 bottles of beer
+ Take one down, pass it around
+82 bottles of beer on the wall
+82 bottles of beer
+ Take one down, pass it around
+81 bottles of beer on the wall
+81 bottles of beer
+ Take one down, pass it around
+80 bottles of beer on the wall
+80 bottles of beer
+ Take one down, pass it around
+79 bottles of beer on the wall
+79 bottles of beer
+ Take one down, pass it around
+78 bottles of beer on the wall
+78 bottles of beer
+ Take one down, pass it around
+77 bottles of beer on the wall
+77 bottles of beer
+ Take one down, pass it around
+76 bottles of beer on the wall
+76 bottles of beer
+ Take one down, pass it around
+75 bottles of beer on the wall
+75 bottles of beer
+ Take one down, pass it around
+74 bottles of beer on the wall
+74 bottles of beer
+ Take one down, pass it around
+73 bottles of beer on the wall
+73 bottles of beer
+ Take one down, pass it around
+72 bottles of beer on the wall
+72 bottles of beer
+ Take one down, pass it around
+71 bottles of beer on the wall
+71 bottles of beer
+ Take one down, pass it around
+70 bottles of beer on the wall
+70 bottles of beer
+ Take one down, pass it around
+69 bottles of beer on the wall
+69 bottles of beer
+ Take one down, pass it around
+68 bottles of beer on the wall
+68 bottles of beer
+ Take one down, pass it around
+67 bottles of beer on the wall
+67 bottles of beer
+ Take one down, pass it around
+66 bottles of beer on the wall
+66 bottles of beer
+ Take one down, pass it around
+65 bottles of beer on the wall
+65 bottles of beer
+ Take one down, pass it around
+64 bottles of beer on the wall
+64 bottles of beer
+ Take one down, pass it around
+63 bottles of beer on the wall
+63 bottles of beer
+ Take one down, pass it around
+62 bottles of beer on the wall
+62 bottles of beer
+ Take one down, pass it around
+61 bottles of beer on the wall
+61 bottles of beer
+ Take one down, pass it around
+60 bottles of beer on the wall
+60 bottles of beer
+ Take one down, pass it around
+59 bottles of beer on the wall
+59 bottles of beer
+ Take one down, pass it around
+58 bottles of beer on the wall
+58 bottles of beer
+ Take one down, pass it around
+57 bottles of beer on the wall
+57 bottles of beer
+ Take one down, pass it around
+56 bottles of beer on the wall
+56 bottles of beer
+ Take one down, pass it around
+55 bottles of beer on the wall
+55 bottles of beer
+ Take one down, pass it around
+54 bottles of beer on the wall
+54 bottles of beer
+ Take one down, pass it around
+53 bottles of beer on the wall
+53 bottles of beer
+ Take one down, pass it around
+52 bottles of beer on the wall
+52 bottles of beer
+ Take one down, pass it around
+51 bottles of beer on the wall
+51 bottles of beer
+ Take one down, pass it around
+50 bottles of beer on the wall
+50 bottles of beer
+ Take one down, pass it around
+49 bottles of beer on the wall
+49 bottles of beer
+ Take one down, pass it around
+48 bottles of beer on the wall
+48 bottles of beer
+ Take one down, pass it around
+47 bottles of beer on the wall
+47 bottles of beer
+ Take one down, pass it around
+46 bottles of beer on the wall
+46 bottles of beer
+ Take one down, pass it around
+45 bottles of beer on the wall
+45 bottles of beer
+ Take one down, pass it around
+44 bottles of beer on the wall
+44 bottles of beer
+ Take one down, pass it around
+43 bottles of beer on the wall
+43 bottles of beer
+ Take one down, pass it around
+42 bottles of beer on the wall
+42 bottles of beer
+ Take one down, pass it around
+41 bottles of beer on the wall
+41 bottles of beer
+ Take one down, pass it around
+40 bottles of beer on the wall
+40 bottles of beer
+ Take one down, pass it around
+39 bottles of beer on the wall
+39 bottles of beer
+ Take one down, pass it around
+38 bottles of beer on the wall
+38 bottles of beer
+ Take one down, pass it around
+37 bottles of beer on the wall
+37 bottles of beer
+ Take one down, pass it around
+36 bottles of beer on the wall
+36 bottles of beer
+ Take one down, pass it around
+35 bottles of beer on the wall
+35 bottles of beer
+ Take one down, pass it around
+34 bottles of beer on the wall
+34 bottles of beer
+ Take one down, pass it around
+33 bottles of beer on the wall
+33 bottles of beer
+ Take one down, pass it around
+32 bottles of beer on the wall
+32 bottles of beer
+ Take one down, pass it around
+31 bottles of beer on the wall
+31 bottles of beer
+ Take one down, pass it around
+30 bottles of beer on the wall
+30 bottles of beer
+ Take one down, pass it around
+29 bottles of beer on the wall
+29 bottles of beer
+ Take one down, pass it around
+28 bottles of beer on the wall
+28 bottles of beer
+ Take one down, pass it around
+27 bottles of beer on the wall
+27 bottles of beer
+ Take one down, pass it around
+26 bottles of beer on the wall
+26 bottles of beer
+ Take one down, pass it around
+25 bottles of beer on the wall
+25 bottles of beer
+ Take one down, pass it around
+24 bottles of beer on the wall
+24 bottles of beer
+ Take one down, pass it around
+23 bottles of beer on the wall
+23 bottles of beer
+ Take one down, pass it around
+22 bottles of beer on the wall
+22 bottles of beer
+ Take one down, pass it around
+21 bottles of beer on the wall
+21 bottles of beer
+ Take one down, pass it around
+20 bottles of beer on the wall
+20 bottles of beer
+ Take one down, pass it around
+19 bottles of beer on the wall
+19 bottles of beer
+ Take one down, pass it around
+18 bottles of beer on the wall
+18 bottles of beer
+ Take one down, pass it around
+17 bottles of beer on the wall
+17 bottles of beer
+ Take one down, pass it around
+16 bottles of beer on the wall
+16 bottles of beer
+ Take one down, pass it around
+15 bottles of beer on the wall
+15 bottles of beer
+ Take one down, pass it around
+14 bottles of beer on the wall
+14 bottles of beer
+ Take one down, pass it around
+13 bottles of beer on the wall
+13 bottles of beer
+ Take one down, pass it around
+12 bottles of beer on the wall
+12 bottles of beer
+ Take one down, pass it around
+11 bottles of beer on the wall
+11 bottles of beer
+ Take one down, pass it around
+10 bottles of beer on the wall
+10 bottles of beer
+ Take one down, pass it around
+9 bottles of beer on the wall
+9 bottles of beer
+ Take one down, pass it around
+8 bottles of beer on the wall
+8 bottles of beer
+ Take one down, pass it around
+7 bottles of beer on the wall
+7 bottles of beer
+ Take one down, pass it around
+6 bottles of beer on the wall
+6 bottles of beer
+ Take one down, pass it around
+5 bottles of beer on the wall
+5 bottles of beer
+ Take one down, pass it around
+4 bottles of beer on the wall
+4 bottles of beer
+ Take one down, pass it around
+3 bottles of beer on the wall
+3 bottles of beer
+ Take one down, pass it around
+2 bottles of beer on the wall
+2 bottles of beer
+ Take one down, pass it around
+1 bottle of beer on the wall
+1 bottle of beer
+ Take one down, pass it around
+0 bottles of beer on the wall
+ian@ian-Latitude-3190-2-in-1:~$ cat bottles.s
+	.file	"bottles.f90"
+	.text
+	.section	.rodata
+.LC0:
+	.string	"bottles.f90"
+.LC1:
+	.ascii	"(I0, ' ', A)"
+.LC2:
+	.ascii	"bottles of beer on the wall"
+.LC3:
+	.ascii	"bottles of beer"
+.LC4:
+	.ascii	"bottle of beer on the wall"
+.LC5:
+	.ascii	"bottle of beer"
+.LC6:
+	.ascii	"Take one down, pass it around"
+	.text
+	.type	MAIN__, @function
+MAIN__:
+.LFB0:
+	.cfi_startproc
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	movq	%rsp, %rbp
+	.cfi_def_cfa_register 6
+	subq	$544, %rsp
+	movl	$99, -4(%rbp)
+.L6:
+	movl	-4(%rbp), %eax
+	shrl	$31, %eax
+	testl	%eax, %eax
+	jne	.L7
+	movl	-4(%rbp), %eax
+	cmpl	$1, %eax
+	je	.L3
+	leaq	.LC0(%rip), %rax
+	movq	%rax, -536(%rbp)
+	movl	$15, -528(%rbp)
+	leaq	.LC1(%rip), %rax
+	movq	%rax, -464(%rbp)
+	movq	$12, -456(%rbp)
+	movl	$4096, -544(%rbp)
+	movl	$6, -540(%rbp)
+	leaq	-544(%rbp), %rax
+	movq	%rax, %rdi
+	call	_gfortran_st_write@PLT
+	leaq	-4(%rbp), %rcx
+	leaq	-544(%rbp), %rax
+	movl	$4, %edx
+	movq	%rcx, %rsi
+	movq	%rax, %rdi
+	call	_gfortran_transfer_integer_write@PLT
+	leaq	-544(%rbp), %rax
+	movl	$27, %edx
+	leaq	.LC2(%rip), %rcx
+	movq	%rcx, %rsi
+	movq	%rax, %rdi
+	call	_gfortran_transfer_character_write@PLT
+	leaq	-544(%rbp), %rax
+	movq	%rax, %rdi
+	call	_gfortran_st_write_done@PLT
+	movl	-4(%rbp), %eax
+	testl	%eax, %eax
+	jle	.L4
+	leaq	.LC0(%rip), %rax
+	movq	%rax, -536(%rbp)
+	movl	$16, -528(%rbp)
+	leaq	.LC1(%rip), %rax
+	movq	%rax, -464(%rbp)
+	movq	$12, -456(%rbp)
+	movl	$4096, -544(%rbp)
+	movl	$6, -540(%rbp)
+	leaq	-544(%rbp), %rax
+	movq	%rax, %rdi
+	call	_gfortran_st_write@PLT
+	leaq	-4(%rbp), %rcx
+	leaq	-544(%rbp), %rax
+	movl	$4, %edx
+	movq	%rcx, %rsi
+	movq	%rax, %rdi
+	call	_gfortran_transfer_integer_write@PLT
+	leaq	-544(%rbp), %rax
+	movl	$15, %edx
+	leaq	.LC3(%rip), %rcx
+	movq	%rcx, %rsi
+	movq	%rax, %rdi
+	call	_gfortran_transfer_character_write@PLT
+	leaq	-544(%rbp), %rax
+	movq	%rax, %rdi
+	call	_gfortran_st_write_done@PLT
+	jmp	.L4
+.L3:
+	leaq	.LC0(%rip), %rax
+	movq	%rax, -536(%rbp)
+	movl	$18, -528(%rbp)
+	leaq	.LC1(%rip), %rax
+	movq	%rax, -464(%rbp)
+	movq	$12, -456(%rbp)
+	movl	$4096, -544(%rbp)
+	movl	$6, -540(%rbp)
+	leaq	-544(%rbp), %rax
+	movq	%rax, %rdi
+	call	_gfortran_st_write@PLT
+	leaq	-4(%rbp), %rcx
+	leaq	-544(%rbp), %rax
+	movl	$4, %edx
+	movq	%rcx, %rsi
+	movq	%rax, %rdi
+	call	_gfortran_transfer_integer_write@PLT
+	leaq	-544(%rbp), %rax
+	movl	$26, %edx
+	leaq	.LC4(%rip), %rcx
+	movq	%rcx, %rsi
+	movq	%rax, %rdi
+	call	_gfortran_transfer_character_write@PLT
+	leaq	-544(%rbp), %rax
+	movq	%rax, %rdi
+	call	_gfortran_st_write_done@PLT
+	leaq	.LC0(%rip), %rax
+	movq	%rax, -536(%rbp)
+	movl	$19, -528(%rbp)
+	leaq	.LC1(%rip), %rax
+	movq	%rax, -464(%rbp)
+	movq	$12, -456(%rbp)
+	movl	$4096, -544(%rbp)
+	movl	$6, -540(%rbp)
+	leaq	-544(%rbp), %rax
+	movq	%rax, %rdi
+	call	_gfortran_st_write@PLT
+	leaq	-4(%rbp), %rcx
+	leaq	-544(%rbp), %rax
+	movl	$4, %edx
+	movq	%rcx, %rsi
+	movq	%rax, %rdi
+	call	_gfortran_transfer_integer_write@PLT
+	leaq	-544(%rbp), %rax
+	movl	$14, %edx
+	leaq	.LC5(%rip), %rcx
+	movq	%rcx, %rsi
+	movq	%rax, %rdi
+	call	_gfortran_transfer_character_write@PLT
+	leaq	-544(%rbp), %rax
+	movq	%rax, %rdi
+	call	_gfortran_st_write_done@PLT
+.L4:
+	movl	-4(%rbp), %eax
+	testl	%eax, %eax
+	jle	.L5
+	leaq	.LC0(%rip), %rax
+	movq	%rax, -536(%rbp)
+	movl	$21, -528(%rbp)
+	movl	$128, -544(%rbp)
+	movl	$6, -540(%rbp)
+	leaq	-544(%rbp), %rax
+	movq	%rax, %rdi
+	call	_gfortran_st_write@PLT
+	leaq	-544(%rbp), %rax
+	movl	$29, %edx
+	leaq	.LC6(%rip), %rcx
+	movq	%rcx, %rsi
+	movq	%rax, %rdi
+	call	_gfortran_transfer_character_write@PLT
+	leaq	-544(%rbp), %rax
+	movq	%rax, %rdi
+	call	_gfortran_st_write_done@PLT
+.L5:
+	movl	-4(%rbp), %eax
+	subl	$1, %eax
+	movl	%eax, -4(%rbp)
+	jmp	.L6
+.L7:
+	nop
+	nop
+	leave
+	.cfi_def_cfa 7, 8
+	ret
+	.cfi_endproc
+.LFE0:
+	.size	MAIN__, .-MAIN__
+	.globl	main
+	.type	main, @function
+main:
+.LFB1:
+	.cfi_startproc
+	pushq	%rbp
+	.cfi_def_cfa_offset 16
+	.cfi_offset 6, -16
+	movq	%rsp, %rbp
+	.cfi_def_cfa_register 6
+	subq	$16, %rsp
+	movl	%edi, -4(%rbp)
+	movq	%rsi, -16(%rbp)
+	movq	-16(%rbp), %rdx
+	movl	-4(%rbp), %eax
+	movq	%rdx, %rsi
+	movl	%eax, %edi
+	call	_gfortran_set_args@PLT
+	leaq	options.5.0(%rip), %rax
+	movq	%rax, %rsi
+	movl	$7, %edi
+	call	_gfortran_set_options@PLT
+	call	MAIN__
+	movl	$0, %eax
+	leave
+	.cfi_def_cfa 7, 8
+	ret
+	.cfi_endproc
+.LFE1:
+	.size	main, .-main
+	.section	.rodata
+	.align 16
+	.type	options.5.0, @object
+	.size	options.5.0, 28
+options.5.0:
+	.long	2116
+	.long	4095
+	.long	0
+	.long	1
+	.long	1
+	.long	0
+	.long	31
+	.ident	"GCC: (Ubuntu 11.3.0-1ubuntu1~22.04.1) 11.3.0"
+	.section	.note.GNU-stack,"",@progbits
+ian@ian-Latitude-3190-2-in-1:~$ sloccount bottles.s
+Have a non-directory at the top, so creating directory top_dir
+Adding /home/ian/bottles.s to top_dir
+Categorizing files.
+Finding a working MD5 command....
+Found a working MD5 command.
+Computing results.
+
+
+SLOC	Directory	SLOC-by-Language (Sorted)
+225     top_dir         asm=225
+
+
+Totals grouped by language (dominant language first):
+asm:            225 (100.00%)
+
+
+
+
+Total Physical Source Lines of Code (SLOC)                = 225
+Development Effort Estimate, Person-Years (Person-Months) = 0.04 (0.50)
+ (Basic COCOMO model, Person-Months = 2.4 * (KSLOC**1.05))
+Schedule Estimate, Years (Months)                         = 0.16 (1.92)
+ (Basic COCOMO model, Months = 2.5 * (person-months**0.38))
+Estimated Average Number of Developers (Effort/Schedule)  = 0.26
+Total Estimated Cost to Develop                           = $ 5,642
+ (average salary = $56,286/year, overhead = 2.40).
+SLOCCount, Copyright (C) 2001-2004 David A. Wheeler
+SLOCCount is Open Source Software/Free Software, licensed under the GNU GPL.
+SLOCCount comes with ABSOLUTELY NO WARRANTY, and you are welcome to
+redistribute it under certain conditions as specified by the GNU GPL license;
+see the documentation for details.
+Please credit this data as "generated using David A. Wheeler's 'SLOCCount'."
+ian@ian-Latitude-3190-2-in-1:~$ 
